@@ -1,36 +1,63 @@
-<h1 align="center">Hi 👋, I'm Roderick de Leon</h1>
-<h3 align="center">A passionate fullstack develop</h3>
+<h1 align="center">I'm Roderick de Leon</h1>
+
+<!-- <h3 align="center">A passionate fullstack developer</h3> -->
+<br>
 
 🔭 I’m currently working on **React Native w/ Expo framework**  
 
 🌱 I’m currently learning **Go**  
-
+<br>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/roderickdeleon/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</p>
+<div align="left"> 
+  <a href="mailto:roderickx.deleon@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/roderickdeleon" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+<br>
+
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
- <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
- <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
- <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
- <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
- <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-</p>
+<div>
+  <span>  
+
+  [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript") &nbsp;
+  [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/ "TypeScript") &nbsp;
+  [![Swift](https://skillicons.dev/icons?i=swift)](https://developer.apple.com/swift/ "Swift") &nbsp;
+  [![Go](https://skillicons.dev/icons?i=go)](https://golang.org "Go") &nbsp;
+  [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/ "Bash") &nbsp;
+  [![HTML5](https://skillicons.dev/icons?i=html)](https://www.w3.org/html/ "HTML") &nbsp;
+  [![CSS3](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/ "CSS") &nbsp;
+  </span> 
+  <span>  
+
+  [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/ "React")  &nbsp; 
+  [![React Native](https://skillicons.dev/icons?i=react&theme=light)](https://reactnative.dev/ "React Native")  &nbsp; 
+  [![Gatsby](https://skillicons.dev/icons?i=gatsby)](https://www.gatsbyjs.com/ "Gatsby")  &nbsp; 
+  [![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org "Redux")  &nbsp; 
+  [![Vue.js](https://skillicons.dev/icons?i=vue)](https://vuejs.org/ "Vue.js")  &nbsp; 
+  [![Pinia](https://skillicons.dev/icons?i=pinia)](https://pinia.vuejs.org/ "Pinia")  &nbsp; 
+  [![Sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/ "Sass")  &nbsp; 
+  [![Jest](https://skillicons.dev/icons?i=jest)](https://jestjs.io "Jest")  &nbsp; 
+  [![Vitest](https://skillicons.dev/icons?i=vitest)](https://vitest.dev/ "Vitest")  &nbsp; 
+  [![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/ "Vite")  &nbsp; 
+  [![Webpack](https://skillicons.dev/icons?i=webpack)](https://webpack.js.org/ "Webpack")  &nbsp; 
+  [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/ "Figma")  &nbsp;
+  </span> 
+  <span>  
+
+  [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org "PostgreSQL")  &nbsp; 
+  [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/ "MongoDB")  &nbsp; 
+  [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en "Node.js")  &nbsp; 
+  [![Express.js](https://skillicons.dev/icons?i=express)](https://expressjs.com/ "Express.js")  &nbsp; 
+  [![Electron](https://skillicons.dev/icons?i=electron)](https://www.electronjs.org "Electron")  &nbsp; 
+  [![npm](https://skillicons.dev/icons?i=npm)](https://www.npmjs.com/ "npm")  &nbsp; 
+  [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/ "Docker")  &nbsp; 
+  [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/ "Git")  &nbsp; 
+  [![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://docs.github.com/en/actions "GitHub Actions")  &nbsp;
+  </span> 
+</div>  
+
