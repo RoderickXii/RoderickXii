@@ -6,19 +6,16 @@
 🔭 I’m currently working on **React Native w/ Expo framework**  
 
 🌱 I’m currently learning **Go**  
+
+💬 Ask me about **UX/UI Design or Accessibility**
+
 <br>
 <h3 align="left">Connect with me:</h3>
-<div align="left"> 
-  <a href="mailto:roderickx.deleon@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/roderickdeleon" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
-<br>
 
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roderickx.deleon@gmail.com "Email Roderick") &nbsp;
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roderickdeleon "Go to Roderick's LinkedIn") &nbsp;
+
+<br> 
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
@@ -60,4 +57,10 @@
   [![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://docs.github.com/en/actions "GitHub Actions")  &nbsp;
   </span> 
 </div>  
+<br>  
+<br>  
+
+![GitHub last commit](https://img.shields.io/github/last-commit/RoderickXii/RoderickXii?display_timestamp=author&style=for-the-badge&label=LAST%20UPDATED&color=%236667AB)
+
+
 
