@@ -3,9 +3,9 @@
 <!-- <h3 align="center">A passionate fullstack developer</h3> -->
 <br>
 
-🔭 I’m currently working on **React Native w/ Expo framework**  
+🔭 I’m currently working with **Flutter/Dart**  
 
-🌱 I’m currently learning **Go**  
+🌱 I’m currently learning **Swift using swiftUI and UIKit**  
 
 💬 Ask me about **UX/UI Design or Accessibility**
 
@@ -23,7 +23,7 @@
 
   [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript") &nbsp;
   [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/ "TypeScript") &nbsp;
-  [![Swift](https://skillicons.dev/icons?i=swift)](https://developer.apple.com/swift/ "Swift") &nbsp;
+  [![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/ "Dart") &nbsp;
   [![Go](https://skillicons.dev/icons?i=go)](https://golang.org "Go") &nbsp;
   [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/ "Bash") &nbsp;
   [![HTML5](https://skillicons.dev/icons?i=html)](https://www.w3.org/html/ "HTML") &nbsp;
@@ -32,12 +32,12 @@
   <span>  
 
   [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/ "React")  &nbsp; 
-  [![React Native](https://skillicons.dev/icons?i=react&theme=light)](https://reactnative.dev/ "React Native")  &nbsp; 
+  [![React Native](https://skillicons.dev/icons?i=react&theme=light)](https://reactnative.dev/ "React Native")  &nbsp;
+  [![Flutter](https://skillicons.dev/icons?i=flutter)](https://docs.flutter.dev/ "Flutter") &nbsp; 
   [![Gatsby](https://skillicons.dev/icons?i=gatsby)](https://www.gatsbyjs.com/ "Gatsby")  &nbsp; 
   [![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org "Redux")  &nbsp; 
   [![Vue.js](https://skillicons.dev/icons?i=vue)](https://vuejs.org/ "Vue.js")  &nbsp; 
   [![Pinia](https://skillicons.dev/icons?i=pinia)](https://pinia.vuejs.org/ "Pinia")  &nbsp; 
-  [![Sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/ "Sass")  &nbsp; 
   [![Jest](https://skillicons.dev/icons?i=jest)](https://jestjs.io "Jest")  &nbsp; 
   [![Vitest](https://skillicons.dev/icons?i=vitest)](https://vitest.dev/ "Vitest")  &nbsp; 
   [![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/ "Vite")  &nbsp; 
