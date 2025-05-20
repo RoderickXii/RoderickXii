@@ -5,7 +5,7 @@
 
 🔭 I’m currently working with **Flutter/Dart**  
 
-🌱 I’m currently learning **Swift using swiftUI and UIKit**  
+🌱 I’m currently learning **Swift using SwiftUI and UIKit**  
 
 💬 Ask me about **UX/UI Design or Accessibility**
 
