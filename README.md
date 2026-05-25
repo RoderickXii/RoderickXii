@@ -3,9 +3,9 @@
 <!-- <h3 align="center">A passionate fullstack developer</h3> -->
 <br>
 
-🖥️ I’m currently working with **Flutter/Dart with Provider and Riverpod**  
+🖥️ I’m currently working with **Flutter/Dart with Riverpod**  
 
-🌱 I’m currently learning **Flows in Android**  
+🌱 I’m currently learning **Flows(Kotlin/Android) and Reactive Programming(Flutter/Dart)**  
 
 💬 Ask me about **UX/UI Design or Accessibility**
 
